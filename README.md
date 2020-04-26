@@ -17,7 +17,7 @@ Informatica I
 
 #### 1. PROLOG
 
-Prolog es un lenguaje de programación declarativo, lo que significa que es un lenguaje basado en la declaración de condiciones, proposiciones, afirmaciones. En el caso de prolog se hace la declaración de hechos y reglas.
+Es un lenguaje declarativo para programación lógica de propósito general , se basa en la representación de relaciones mediantes reglas y hechos . La principal diferencia con el imperativo es que buscamos describir el problema. Prolog es un diminutivo de PROgrammation en LOGique
 
 La sintaxis del lenguaje consiste en lo siguiente:
 - Declarar hechos sobre objetos y sus relaciones
