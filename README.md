@@ -83,7 +83,7 @@ Las Calificaciones se asignarion de la Siguiente manera.
 Al realizar la consulta por codigo de estudiante el Sistema retorna la nota definitiva de la asignatura, calculada previamente en la logica de PROLOG.
 
 <p align="center">
-<img align="center" width="200" height="150" src="imagenes/from.png">
+<img align="center" width="300" height="200" src="imagenes/from.png">
 </p>
 
 
