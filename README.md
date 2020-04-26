@@ -72,12 +72,13 @@ Las Calificaciones se asignarion de la Siguiente manera.
 - 30% Talleres
 - 20% Asistencia
 
-Integracion de Prolog con Java....
+#### Integracion de Prolog con Java....
 
-Al Realizar la Consulta por codigo de estudiante el Sistema darà la nota definitiva de la asignatura.
+Al Realizar la Consulta por codigo de estudiante el Sistema retorna la nota definitiva de la asignatura, calculada previamente en la logica de PROLOG.
 
 
 #### 3. Referencias Web
 
 - https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb
 - https://github.com/apdaza/universidad-ejercicios/tree/master/prolog
+- http://ferestrepoca.github.io/paradigmas-de-programacion/proglogica/tutoriales/prolog-gh-pages/Prolog.pdf
