@@ -29,10 +29,15 @@ La sintaxis del lenguaje consiste en lo siguiente:
 Hechos
 
 Los hechos no tienen que reflejar el mundo real necesariamente, pero será única y exclusivamente lo que PROLOG tomará como verdadero. Un conjunto de hechos (también llamados cláusulas), junto con un conjunto de reglas, forman lo que se llama una base de datos PROLOG.
+
 ejemplos:
+
 le_gusta_a(juan,maria).
+
 valioso(oro).
+
 tiene(juan,libro).
+
 da(juan,libro,maria).
 
 
