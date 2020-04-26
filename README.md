@@ -48,6 +48,20 @@ Existe en PROLOG la posibilidad de definir la relación “abuelo(X,Y)” o la r
 - abuelo(X,Y):- progenitor(X,Z), progenitor(Z,Y).
 - tio(X,Y):- progenitor(Z,Y), progenitor(V,Z), progenitor(V,X).
 
+Ventajas de PROLOG
+
+- El codigo tiende a ser mucho mas corto, luego es facil de modificar.
+- Facilidad de Programar.
+
+Desventajas de PROLOG
+
+- Curva de Aprendizaje larga.
+- Se deben establecer muy bien los hechos o la representación del conocimiento, por que pueden haber soluciones erroneas.
+
+- Forma de pensar es diferente como los programadores estan acostumbrados.
+
+
+
 Ejercicio de Aplicacion:
 
 
