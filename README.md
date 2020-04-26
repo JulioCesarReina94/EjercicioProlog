@@ -22,7 +22,7 @@ Es un lenguaje declarativo para programación lógica de propósito general , se
 
 
 <p align="center">
-<img align="center" width="300" height="250" src="imagenes/prolog.jpg">
+<img align="center" width="200" height="150" src="imagenes/prolog.jpg">
 </p>
 
 La sintaxis del lenguaje consiste en lo siguiente:
