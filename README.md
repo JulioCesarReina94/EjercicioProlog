@@ -52,6 +52,7 @@ Existe en PROLOG la posibilidad de definir la relación “abuelo(X,Y)” o la r
 
 - El codigo tiende a ser mucho mas corto, luego es facil de modificar.
 - Facilidad de Programar.
+- Con PROLOG se pueden estructurar sistemas expertos que emulan la habilidad de un humano para la toma de decisiones.
 
 ##### 1.5 Desventajas de PROLOG
 
