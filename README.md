@@ -80,7 +80,11 @@ Las Calificaciones se asignarion de la Siguiente manera.
 
 #### Integracion de Prolog con Java....
 
-Al Realizar la Consulta por codigo de estudiante el Sistema retorna la nota definitiva de la asignatura, calculada previamente en la logica de PROLOG.
+Al realizar la consulta por codigo de estudiante el Sistema retorna la nota definitiva de la asignatura, calculada previamente en la logica de PROLOG.
+
+<p align="center">
+<img align="center" width="200" height="150" src="imagenes/prolog.jpg">
+</p>
 
 
 #### 3. Referencias Web
