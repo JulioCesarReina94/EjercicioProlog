@@ -32,14 +32,16 @@ Los hechos no tienen que reflejar el mundo real necesariamente, pero será únic
 
 ejemplos:
 
-le_gusta_a(juan,maria).
+- le_gusta_a(juan,maria).
+- valioso(oro).
+- tiene(juan,libro).
+- da(juan,libro,maria).
 
-valioso(oro).
+Preguntas
 
-tiene(juan,libro).
+PROLOG busca automáticamente en la base de datos si existe un hecho que se puede unificar (es decir, tiene el mismo nombre de predicado, el mismo número de argumentos y cada uno de los argumentos tiene el mismo nombre, uno a uno) con el hecho que aparece en la pregunta. 
 
-da(juan,libro,maria).
-
+?- le_gusta_a(juan,maria).
 
 Ejercicio de Aplicacion:
 
