@@ -71,7 +71,9 @@ Las Calificaciones se asignarion de la Siguiente manera.
 - 30% Talleres
 - 20% Asistencia
 
+Integracion de Prolog con Java....
 
+Al Realizar la Consulta por codigo de estudiante el Sistema darà la nota definitiva de la asignatura.
 
 
 #### 3. Referencias Web
