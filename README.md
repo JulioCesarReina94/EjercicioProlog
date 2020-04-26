@@ -77,3 +77,4 @@ Las Calificaciones se asignarion de la Siguiente manera.
 #### 3. Referencias Web
 
 - https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb
+- https://github.com/apdaza/universidad-ejercicios/tree/master/prolog
