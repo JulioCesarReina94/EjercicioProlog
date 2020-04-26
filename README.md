@@ -8,6 +8,14 @@ Cristian Gonzales    20201099032
 
 Andres Lozano          20201099038
 
+Docente:
+
+Alejandro Paolo Daza
+
+Asignatura: 
+
+Informatica I
+
 # EjercicioProlog
 
 ¿Que es Prolog?
