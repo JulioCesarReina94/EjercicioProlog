@@ -61,9 +61,19 @@ Existe en PROLOG la posibilidad de definir la relación “abuelo(X,Y)” o la r
 
 
 
-2. EJERCICIO DE APLICACION (NOTAS)
+#### 2. EJERCICIO DE APLICACION (NOTAS)
+
+Para esta actividad se eligio realizar la actividad correspondiente a las notas de un curso, donde se establecio un archivo PROLOG con los datos de los estudiantes y sus calificaciones, correspondientes a 3 talleres, 2 parciales y 1 calificacion por asistencia. 
+
+Las Calificaciones se asignarion de la Siguiente manera.
+
+- 50% Parciales
+- 30% Talleres
+- 20% Asistencia
 
 
-Referencias Web
+
+
+#### 3. Referencias Web
 
 - https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb
