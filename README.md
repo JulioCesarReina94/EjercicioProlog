@@ -64,4 +64,6 @@ Existe en PROLOG la posibilidad de definir la relación “abuelo(X,Y)” o la r
 Ejercicio de Aplicacion:
 
 
+Referencias Web
 
+- https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb
