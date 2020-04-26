@@ -86,6 +86,11 @@ Al realizar la consulta por codigo de estudiante el Sistema retorna la nota defi
 <img align="center" width="300" height="200" src="imagenes/from.png">
 </p>
 
+Al seleccionar el Alumno el sistema mostrará la nota definitiva, como se oberva en la siguiente figura.
+<p align="center">
+<img align="center" width="300" height="200" src="imagenes/from2.png">
+</p>
+
 
 #### 3. Referencias Web
 
