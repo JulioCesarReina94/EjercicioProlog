@@ -21,7 +21,7 @@ Es un lenguaje declarativo para programación lógica de propósito general , se
 
 ![FIGURA 1](imagenes/prolog.jpg)
 
-<img align="left" width="100" height="100" src="![FIGURA 1](imagenes/prolog.jpg)">
+<img align="left" width="100" height="100" src="imagenes/prolog.jpg">
 
 La sintaxis del lenguaje consiste en lo siguiente:
 - Declarar hechos sobre objetos y sus relaciones
