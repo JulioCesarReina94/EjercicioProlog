@@ -19,6 +19,8 @@ Informatica I
 
 Es un lenguaje declarativo para programación lógica de propósito general , se basa en la representación de relaciones mediantes reglas y hechos . La principal diferencia con el imperativo es que buscamos describir el problema. Prolog es un diminutivo de PROgrammation en LOGique
 
+![FIGURA 1](imagenes/prolog.jpg)
+
 La sintaxis del lenguaje consiste en lo siguiente:
 - Declarar hechos sobre objetos y sus relaciones
 - Hacer preguntas sobre objetos y sus relaciones
