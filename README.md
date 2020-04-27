@@ -30,7 +30,7 @@ La sintaxis del lenguaje consiste en lo siguiente:
 - Hacer preguntas sobre objetos y sus relaciones
 - Definir reglas sobre objetos y sus relaciones
 
-### 1.1 Hechos
+#### 1.1 Hechos
 
 Los hechos no tienen que reflejar el mundo real necesariamente, pero será única y exclusivamente lo que PROLOG tomará como verdadero. Un conjunto de hechos (también llamados cláusulas), junto con un conjunto de reglas, forman lo que se llama una base de datos PROLOG.
 
@@ -41,13 +41,13 @@ ejemplos:
 - tiene(juan,libro).
 - da(juan,libro,maria).
 
-### 1.2 Preguntas
+#### 1.2 Preguntas
 
 PROLOG busca automáticamente en la base de datos si existe un hecho que se puede unificar (es decir, tiene el mismo nombre de predicado, el mismo número de argumentos y cada uno de los argumentos tiene el mismo nombre, uno a uno) con el hecho que aparece en la pregunta. 
 
 - ?- le_gusta_a(juan,maria).
 
-### 1.3 Las Reglas
+#### 1.3 Las Reglas
 
 Existe en PROLOG la posibilidad de definir la relación “abuelo(X,Y)” o la relación “tio(X,Y)” como reglas, además de poderlo hacer como hechos o como conjunción de objetivos.
 
