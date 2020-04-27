@@ -88,7 +88,7 @@ Es un lenguaje de programación funcional de propósito general que permite la p
 
 pyDatalog agrega el paradigma de programación lógica a la extensa caja de herramientas de Python. Datalog es un lenguaje declarativo derivado de Prolog. Uno de sus puntos fuertes es la gestión de la complejidad. Los programas de registro de datos son más cortos que su equivalente de Python, y las declaraciones de registro de datos se pueden especificar en cualquier orden, tan simple como una fórmula en una hoja de cálculo.
 
-### 2. EJERCICIO DE APLICACION (NOTAS)
+### 3. EJERCICIO DE APLICACION (NOTAS)
 
 Para esta actividad se eligio realizar la actividad correspondiente a las notas de un curso, donde se establecio un archivo PROLOG con los datos de los estudiantes y sus calificaciones, correspondientes a 3 talleres, 2 parciales y 1 calificacion por asistencia. 
 
@@ -112,7 +112,7 @@ Al seleccionar el Alumno el sistema mostrará la nota definitiva, como se oberva
 </p>
 
 
-### 3. Referencias Web
+### 4. Referencias Web
 
 - https://swish.swi-prolog.org/p/Tutorial%20de%20prolog.swinb
 - https://github.com/apdaza/universidad-ejercicios/tree/master/prolog
